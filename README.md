@@ -1,6 +1,5 @@
 ## ChefItUp
 School project for CSc 322 - Software Engineering Course, with Prof. Jie Wei, at the City College of New York
-
 Contributors: Nahin Imtiaz, Albert Felix, Eddie Ozuna, & Cristian Cuevas
 
 ## App Concept:
@@ -14,10 +13,15 @@ ChefItup is a web application for restaurant managemenet and online food orderin
 ## App Demo
 Please refer to this [link](https://www.acen-chefitup.herokuapp.com) for a deployed version of the frontend of our application.
 
-## Notes
-To get the app working locally, please clone the repo on your machine (git clone https://github.com/OzunaEddie/chefitup.git).
-- To start frontend, change directories into the client folder, run npm install, and then npm start
-- To start the backend, follow the instructions under [this readme](https://github.com/OzunaEddie/chefitup/blob/master/server/README.md)
+## System Setup
+1. Clone the repository (git clone https://github.com/OzunaEddie/chefitup.git)
+2. Set up the back end by following the readme in the server folder [here](https://github.com/OzunaEddie/chefitup/blob/master/server/README.md)
+3. Run the follow commands inside the client folder.
+      - npm install
+      - npm start
+4. Open a new terminal and run this command to start the back end
+      - sudo npm run dev
+5. Head to http://localhost:3000/
 
 ## License
 
