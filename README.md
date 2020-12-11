@@ -1,5 +1,6 @@
 ## ChefItUp
 School project for CSc 322 - Software Engineering Course, with Prof. Jie Wei, at the City College of New York
+
 Contributors: Nahin Imtiaz, Albert Felix, Eddie Ozuna, & Cristian Cuevas
 
 ## App Concept:
