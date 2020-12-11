@@ -2,7 +2,7 @@
 
 Steps to set up the system.
 
-1. Clone the reposity
+1. Clone the repository
 
 2. Set up the back end by following the readme in the server folder.
 
